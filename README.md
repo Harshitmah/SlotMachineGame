@@ -1,4 +1,3 @@
-# SlotMachineGame
 # Slot Machine Game in JavaScript & Node.js
 
 A simple **Slot Machine** game built using **JavaScript** and **Node.js**. The game allows players to deposit money, place bets, spin the reels, and win based on matching symbols. It runs in the terminal using **prompt-sync** for user input.
@@ -67,7 +66,7 @@ Do you want to play again (y/n)? y
 ```
 
 ## License
-This project is open-source and available under the **MIT License**.
+This project is open-source.
 
 ---
 
